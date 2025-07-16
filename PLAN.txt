@@ -1,0 +1,127 @@
+Re Training 		Core java :  	Oops :
+		1 )Class and Objects 
+		2 ) Inheritance 
+						single , multilevel ,  hierarchical , 
+						 Hybrid , multiple in teams of interface : 
+						super , extends  , this 
+						Sealed class : permit 
+							
+		3) Polymorphism :
+						Poly + morphism :
+						many + forms : 
+						Compile time PM 
+								Ex : over loading : same class 
+									1 ) constructor over loading 
+									2 )method overloading..!
+			same method name + multiple time  + diff diff par + in same class = MOL 
+			same construct  name + multiple time  + diff diff par + in same class = COL 
+		
+						Run time poly 
+								Ex: over riding  : parent and child class 
+			same method name + Same signature   same parameter  + in child class = method over riding
+			constructor over riding : is possible ? y ( bcz constructor and class name must be same : hence not posbl)
+		4)Encapsulation  : hinding the data members in signle unit: make all the var as private . setter / getter 	
+		5)Abstraction :abstarct class Interface		: Hinding the implementation is called as Abstarction ....!
+		packages : 
+				1)Access Modifiers : Public , private , Protected , Default 
+				2)Non Access Modifiers : abstract , final , Static
+				 final : 	key word
+							var : we cant modify / change 
+							class : we cant inherited from parent 
+							method : we cant over ride 
+				final ----------- finally ------------ finilize 
+				keyword --------- block ----------------method 
+				 Static : 
+						key word : 
+							without creating obj we can access
+							will not belongs obj 
+		Arrays : 
+		String : 
+			Exception handling in java 
+					Check exception/compile time exception 
+								IO Exception 
+								SQLException 
+								FileNotFoundException
+					uncheck exception : runtime exception 
+								Arethematic Exception
+								InputMissmatchException
+								ArrayIndexOutOfBoudException
+								NullPointerException
+
+			Multithreading : 		
+				
+				
+		Collections : 
+		JDBC : java  to DB c : jdbc : CRUD :
+
+
+
+		Testing : 
+		
+		SDLC : DEV 
+			STLC 
+
+Facebook: 
+
+
+SE : ST : 
+EMployee : 
+			G Requirement 
+				login , reg , profile, sittes , pic ,vedio
+				aud , video , BA 
+				100 point 				
+						
+			Design  :UI / UX team
+				BA:  10 points
+				 
+			Login : how  ? 
+				user name : emil id / ph  
+			test : 
+			Deployment 
+			http methods: 
+			Get  ,post ,put, delete 	
+
+Get	: it is used to restive the record from db 
+	
+	http://localhost:9999/getAllEmployee		ErrorStaus Code : 200OK
+	http://localhost:9999//getAllEmployee/{id}
+
+Post : send the record to DB / ADD / POST 
+
+	http://localhost:9999/addEmployee
+			200 
+			500 / 400 
+
+Put:: update the record 
+ 
+	http://localhost:9999/updateEmployee/{id}
+
+Delete: revome the record from DB / File 
+
+	http://localhost:9999/deleteEmployee/{id}
+	http://localhost:9999/deleteAllEmployee	
+
+ErrorStaus Code : 200OK
+500Internal Server Error 
+404 : not Found 
+			http://localhost:9999/swagger-ui/index.html
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			

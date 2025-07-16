@@ -1,0 +1,29 @@
+Oops
+
+	Class & Class 
+	Inheritance : 
+		single 
+		Multilevel 	
+		Multiple 
+		Hierarchy 
+		Hybrid 
+
+		Super
+		this 
+		Extends 
+	Polymorphism 
+		Compile time
+			over loading : 
+					constructor over loading 
+					method over loading  
+		Run time 
+			over riding : 
+					no Constructor over riding 
+					Method over riding
+	Abstraction : 	
+
+			abstract class 
+			Interface 
+	Encapsulation : 
+				private 
+				setter getter 

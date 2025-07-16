@@ -1,0 +1,22 @@
+Class 				Abstract Class 				Interface 
+
+1)class A{}			abstract class A{}			interface I{}
+
+
+2) must contains only		can be both abstract and non 		only , & by default abstract 
+	non abstract methods
+
+
+3)A a = new A(); yes 		no 					no 
+
+
+4)A(){} yes 			A(){}					No : 
+
+
+5)int a; yes 			yes 					no : int a =100;
+
+
+6)multiple Inh Is not poss	no possible 				is possible in Interface 
+
+
+7)0 % security 			0-100%					100% security 
